@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4259201200
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: data/assetconf/achievevo.asset
+      Dependencies: {}
+    Info_1:
+      Name: data/prefab/ui/trainmainpanel.asset
+      Dependencies:
+        Dependency_0: data/prefab/ui/depends.asset
+    Info_2:
+      Name: data/prefab/ui/trainheropanel.asset
+      Dependencies:
+        Dependency_0: data/prefab/ui/depends.asset
+    Info_3:
+      Name: data/prefab/ui/depends.asset
+      Dependencies: {}
+    Info_4:
+      Name: data/assetuiatlas/equip.asset
+      Dependencies: {}
+    Info_5:
+      Name: data/assetuiatlas/trainmainpanel.asset
+      Dependencies: {}

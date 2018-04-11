@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1095011219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a45952f4cb68a8fdf6e54babf6c3ce69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 54e747ffc709afcb4764cbb91394315a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7accd8a3533df4c4a9719c878ac65d4c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resassets/Data/AssetUIAtlas/TrainMainPanel.asset
+Dependencies: []

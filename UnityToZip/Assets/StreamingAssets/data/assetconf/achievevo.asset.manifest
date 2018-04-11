@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1913410287
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b9245c07c3863e2795bc22cd166bb92
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 220a325d1d4a1d4c4e46c6683d3217d9
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: de0109de1942ead4ca292e0e0645ab39, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resassets/Data/AssetConf/AchieveVo.asset
+Dependencies: []

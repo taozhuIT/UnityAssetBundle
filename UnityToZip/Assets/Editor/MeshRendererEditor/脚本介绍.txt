@@ -1,0 +1,6 @@
+
+DecoratorEditor 是做编辑器扩展的基类（应该是从UGUI中复制出来的）
+taoMyMeshRender 是给编辑类MeshRander做扩展（增加一个SortingOrder来设置模型的层级，和UI中设置层级一样，但是模型的Shader渲染模式必须是带透明的 Transparent/Fade 才能有效果）
+
+将这两个脚本放到工程的Editor下  让Mesh Render模型渲染脚本拥有Sorting Order字段可设置层级可用于
+和UI层级进行区分
